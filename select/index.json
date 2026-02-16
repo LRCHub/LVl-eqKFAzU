@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "필요해",
+  "base_artist": "maji",
+  "createdAt": "2026-02-16T12:50:53.788198Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "누군가 필요해",
+      "artist": "DAY6",
+      "has_synced": true,
+      "path": "select/01_누군가_필요해_DAY6.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "누군가 필요해 I Need Somebody",
+      "artist": "Ra.D feat. Brothersu",
+      "has_synced": true,
+      "path": "select/02_누군가_필요해_I_Need_Somebody_Ra.D_feat._Brothersu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "누군가 필요해 I Need Somebody",
+      "artist": "DAY6",
+      "has_synced": true,
+      "path": "select/03_누군가_필요해_I_Need_Somebody_DAY6.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "누군가 필요해",
+      "artist": "DAY6",
+      "has_synced": true,
+      "path": "select/04_누군가_필요해_DAY6.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Need Somebody (누군가 필요해)",
+      "artist": "Day6",
+      "has_synced": true,
+      "path": "select/05_I_Need_Somebody_(누군가_필요해)_Day6.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "니가 필요해 (I Need You)",
+      "artist": "BESTie",
+      "has_synced": false,
+      "path": "select/06_니가_필요해_(I_Need_You)_BESTie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "니가 필요해 (I Need You) (inst.)",
+      "artist": "BESTie",
+      "has_synced": false,
+      "path": "select/07_니가_필요해_(I_Need_You)_(inst.)_BESTie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Need You(난 니가 필요해)",
+      "artist": "에이핑크 (Apink)",
+      "has_synced": true,
+      "path": "select/08_I_Need_You(난_니가_필요해)_에이핑크_(Apink).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "대화가 필요해 (I Need to Talk) (Inst.)",
+      "artist": "Bang Yong-guk (방용국)",
+      "has_synced": true,
+      "path": "select/09_대화가_필요해_(I_Need_to_Talk)_(Inst.)_Bang_Yong-guk_(방용국).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "대화가 필요해 (I Need to Talk)",
+      "artist": "Bang Yong-guk (방용국)",
+      "has_synced": true,
+      "path": "select/10_대화가_필요해_(I_Need_to_Talk)_Bang_Yong-guk_(방용국).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "누군가 필요해 (I Need Somebody)",
+      "artist": "DAY6 (데이식스)",
+      "has_synced": true,
+      "path": "select/11_누군가_필요해_(I_Need_Somebody)_DAY6_(데이식스).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "대화가 필요해",
+      "artist": "Vanilla Acoustic",
+      "has_synced": true,
+      "path": "select/12_대화가_필요해_Vanilla_Acoustic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Need You (니가 필요해 (I NEED YOU))",
+      "artist": "BESTie",
+      "has_synced": true,
+      "path": "select/13_I_Need_You_(니가_필요해_(I_NEED_YOU))_BESTie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Need U (니가 필요해 (NEED U))",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/14_Need_U_(니가_필요해_(NEED_U))_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "대화가 필요해",
+      "artist": "The Jadu",
+      "has_synced": true,
+      "path": "select/15_대화가_필요해_The_Jadu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "나 주님이 더욱 필요해 I Need You More",
+      "artist": "아가파오 워십 AGAPAO Worship",
+      "has_synced": false,
+      "path": "select/16_나_주님이_더욱_필요해_I_Need_You_More_아가파오_워십_AGAPAO_Worship.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Need You",
+      "artist": "maji",
+      "has_synced": false,
+      "path": "select/pl_01_Need_You_maji.txt"
+    }
+  ]
+}
